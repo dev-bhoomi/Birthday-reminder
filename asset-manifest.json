@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Birthday-reminder/static/css/main.f2351627.css",
-    "main.js": "/Birthday-reminder/static/js/main.7e0983cc.js",
+    "main.js": "/Birthday-reminder/static/js/main.40071eaa.js",
     "static/js/787.d13d3c2c.chunk.js": "/Birthday-reminder/static/js/787.d13d3c2c.chunk.js",
     "static/media/female_avtar.png": "/Birthday-reminder/static/media/female_avtar.63c6d787cc5a88fb0155.png",
     "static/media/male_avtar.png": "/Birthday-reminder/static/media/male_avtar.a1d161e990d403987aef.png",
     "index.html": "/Birthday-reminder/index.html",
     "main.f2351627.css.map": "/Birthday-reminder/static/css/main.f2351627.css.map",
-    "main.7e0983cc.js.map": "/Birthday-reminder/static/js/main.7e0983cc.js.map",
+    "main.40071eaa.js.map": "/Birthday-reminder/static/js/main.40071eaa.js.map",
     "787.d13d3c2c.chunk.js.map": "/Birthday-reminder/static/js/787.d13d3c2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2351627.css",
-    "static/js/main.7e0983cc.js"
+    "static/js/main.40071eaa.js"
   ]
 }
